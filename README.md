@@ -9,7 +9,7 @@ This Python-based project develops a predictive model for forecasting future eve
 - **Forecasting Model:** Utilizes statistical methods to predict future registrations based on historical trends, excluding marketing impacts.
 - **GUI for Forecasting:** Developed using Python's tkinter library, allowing users to input current registration numbers and days left in the registration period for an estimated final count.
 
-##Technologies Used
+## Technologies Used
 - Python 3.10
 - Pandas for data manipulation
 - Matplotlib for data visualisation
