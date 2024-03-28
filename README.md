@@ -1,7 +1,7 @@
 # Event Registration Forecasting Model
 
 ## Overview
-This Python-based project develops a predictive model for forecasting future event registrations, achieving an accuracy of 78.57%. It employs advanced statistical analysis to dissect historical data, distinguishing natural registration trends from those influenced by marketing efforts. The project includes a comprehensive data preparation and preprocessing pipeline, gradient calculation for trend identification, and a user-friendly graphical user interface (GUI) for interactive forecasting.
+This Python-based collaborative project develops a predictive model for forecasting future event registrations, achieving an accuracy of 78.57%. It employs advanced statistical analysis to dissect historical data, distinguishing natural registration trends from those influenced by marketing efforts. The project includes a comprehensive data preparation and preprocessing pipeline, gradient calculation for trend identification, and a user-friendly graphical user interface (GUI) for interactive forecasting.
 
 ## Features
 - **Data Preparation and Preprocessing:** Custom Python scripts for cleaning and structuring raw event registration data.
